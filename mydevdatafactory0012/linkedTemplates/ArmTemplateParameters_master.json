@@ -53,6 +53,9 @@
 		"AzureSqlDatabase2LS_properties_typeProperties_userName": {
 			"value": "dbadmin"
 		},
+		"RestServiceLS_properties_typeProperties_url": {
+			"value": "https://jsonplaceholder.typicode.com/"
+		},
 		"containerUri": {
 			"value": ""
 		},
