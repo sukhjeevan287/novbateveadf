@@ -1,0 +1,63 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "mydevdatafactory0012"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLS hellocsv_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLSForCustomerAddress_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLSHello_CSV_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"AzureSqlDatabase2LS_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://mydevstorageaccount.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorageLS hellocsv_properties_typeProperties_url": {
+			"value": "https://mydevstorageaccount.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorageLSForCustomerAddress_properties_typeProperties_url": {
+			"value": "https://mydevstorageaccount.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorageLSHello_CSV_properties_typeProperties_url": {
+			"value": "https://mydevstorageaccount.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "mydevserver0003.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "adventureworks"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "dbadmin"
+		},
+		"AzureSqlDatabase2LS_properties_typeProperties_server": {
+			"value": "mydevserver0003.database.windows.net"
+		},
+		"AzureSqlDatabase2LS_properties_typeProperties_database": {
+			"value": "adventureworks"
+		},
+		"AzureSqlDatabase2LS_properties_typeProperties_userName": {
+			"value": "dbadmin"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
