@@ -1,0 +1,16 @@
+{
+	"name": "mydevdatafactory0012",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1838180c-43fd-4220-99ff-a1f25f553475",
+		"tenantId": "3a4ef815-1954-409a-a2df-c1d7214d203f"
+	}
+}
